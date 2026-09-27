@@ -5,7 +5,7 @@ Minecraft Java Edition用のデータパックです。
 
 ## 構造
 ```
-マイクラ-kill/
+KillOnDeath-DataPack
 ├── pack.mcmeta
 ├── data/
 │   ├── kill_on_death/
@@ -23,7 +23,7 @@ Minecraft Java Edition用のデータパックです。
 ## 使い方
 
 ### 1. データパックのインストール
-1. `マイクラ-kill` フォルダを、ワールドの `datapacks` フォルダにコピー
+1. `KillOnDeath-DataPack` フォルダを、ワールドの `datapacks` フォルダにコピー
    - 場所: `.minecraft/saves/[ワールド名]/datapacks/`
 2. ゲーム内で `/reload` コマンドを実行
 
